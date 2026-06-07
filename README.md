@@ -11,6 +11,11 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 - Prepare for coding interviews.
 - Improve problem-solving skills using JavaScript.
 
+## 📚 Topics Covered
+
+### Basics
+- Data Types (`primitive` and `non-primitive`)
+
 
 ## ⭐ Progress
 
