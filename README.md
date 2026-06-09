@@ -15,6 +15,7 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 
 ### Basics
 - Data Types (`primitive` and `non-primitive`)
+- Let vs Var vs Const
 
 
 ## ⭐ Progress
