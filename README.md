@@ -14,9 +14,10 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 ## 📚 Topics Covered
 
 ### Basics
+- Array
 - Data Types (`primitive` and `non-primitive`)
-- Let vs Var vs Const
 - Datatype conversion
+- Let vs Var vs Const
 - String
 
 
