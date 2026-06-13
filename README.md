@@ -23,7 +23,7 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 
 ## ⭐ Progress
 
-This repository is continuously updated as I revise and learn new JavaScript concepts.
+This repository is continuously updated as I revise and learn new JavaScript concept.
 
 ---
 
