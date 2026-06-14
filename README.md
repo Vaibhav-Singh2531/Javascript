@@ -17,6 +17,7 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 - Array
 - Data Types (`primitive` and `non-primitive`)
 - Datatype conversion
+- Dates
 - Let vs Var vs Const
 - Nums and Math
 - String
