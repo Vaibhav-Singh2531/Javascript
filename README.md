@@ -20,6 +20,7 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 - Dates
 - Let vs Var vs Const
 - Nums and Math
+- Objects
 - String
 
 
