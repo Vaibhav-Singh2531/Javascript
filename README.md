@@ -25,6 +25,9 @@ The goal of this repository is to strengthen JavaScript fundamentals and revisit
 - Scope
 - String
 
+### Iterations
+- For-loop
+
 
 ## ⭐ Progress
 
